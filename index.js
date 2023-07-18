@@ -26,5 +26,5 @@ app.get("/", (req, res) => {
 
 //servidor
 app.listen(1518, ()=>{
-    console.log("Servidor Rodando na porta 1018");
+    console.log("Servidor Rodando na porta 1518");
 });
